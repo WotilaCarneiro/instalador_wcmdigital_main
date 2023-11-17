@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código Canal Vem Fazer...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código WCM Digital SaaS...${GRAY_LIGHT}"
   printf "\n\n"
 
 
